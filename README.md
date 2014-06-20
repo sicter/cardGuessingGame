@@ -10,4 +10,4 @@ e two cards showing.
 (If the card equals one of the two cards showing, it is not between them.)
 3.After the player responds, deals another card.
 4.If the player predicted correctly, (s)he wins. Otherwise, the dealer wins.
-**The game ends when the deck is exhausted.**
+--The game ends when the deck is exhausted.--
